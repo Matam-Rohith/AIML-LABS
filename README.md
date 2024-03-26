@@ -8,3 +8,5 @@
 [LAB-04](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Lab04.ipynb)
 
 [LAB-05](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Lab05.ipynb)
+
+[LAB-06](https://github.com/Matam-Rohith/AIML-LABS/blob/main/LAB06.ipynb)

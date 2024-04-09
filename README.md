@@ -16,3 +16,5 @@
 [LAB-08](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Lab_08.ipynb)
 
 [LAB-09](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Lab_09.ipynb)
+
+[LAB-10](https://github.com/Matam-Rohith/AIML-LABS/blob/main/Lab_10.ipynb)
